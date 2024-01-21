@@ -1,0 +1,8 @@
+.friends {
+  display: flex;
+  width: 320px;
+  flex-direction: column;
+  margin: 0 auto;
+
+  /* border-radius: 10px; */
+}
